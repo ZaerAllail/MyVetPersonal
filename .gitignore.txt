@@ -1,1 +1,10 @@
 gitPort/
+
+#####
+
+Currency.txt
+Language.txt
+LCCA.txt
+MicVetAdTo.txt
+SqlServerName.txt
+VetBackUp.txt
