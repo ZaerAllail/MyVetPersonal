@@ -1,0 +1,1 @@
+﻿Data Source=ZAERALLAIL-PC\SQLEXPRESS;Initial Catalog=master; Integrated Security=SSPI;Network Library=; uid=; pwd=

@@ -1,0 +1,550 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Veterinary Clinic
+</name>
+</assembly>
+<members>
+<member name="T:VeterinaryClinic.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.accept">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.blood_test">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.calendarWhite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.Fullscreen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.Print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.remove">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.Search1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.star">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.vat_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:VeterinaryClinic.My.Resources.Resources.Xray4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.KshfTbDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CareDataTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.SillDataTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.ReqMidDataTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.ClosDayTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.AnmlReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysKshfRsltDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysExpncDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CryPurshDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysResptInOutDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysLabDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.StatusTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.RebacTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.AllExpencDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.KshfTbRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CareDataTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.SillDataTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.ReqMidDataTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.ClosDayTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.AnmlReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysKshfRsltRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysExpncRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CryPurshRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysResptInOutRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysLabRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.StatusTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.RebacTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.AllExpencRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.KshfTbRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CareDataTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.SillDataTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.ReqMidDataTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.ClosDayTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.AnmlReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysKshfRsltRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysExpncRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CryPurshRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysResptInOutRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.CrysLabRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.StatusTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.RebacTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:VeterinaryClinic.AllInDataSet.AllExpencRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:VeterinaryClinic.BarCodGenerat.PanelPrinter(System.Object,System.Drawing.Printing.PrintPageEventArgs)">
+ <summary>
+ تحويل البانل الى صورة للطباعة
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:VeterinaryClinic.CommonTools.Barcode.CreateBarCode(System.Windows.Forms.Panel,VeterinaryClinic.CommonTools.Barcode.BarcodeData)">
+ <summary>
+ اصنع باركود بالابيانات المطلوبه و اطرحه في البانل
+ </summary>
+</member>
+<member name="T:VeterinaryClinic.CommonMethods.CalcMode">
+ <summary>
+ وضعيات الحاسبة للضريبة
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.CommonMethods.GetOriginalWithNoVatFromVat(System.Double,System.Double,System.Double)">
+ <summary>
+ Returns the original value from which the vat was deducted and then remove it from the given full value. Specifc use cases only.
+ </summary>
+ <param name="vatValue"></param>
+ <param name="vat"></param>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.CommonMethods.ChangeByPercentage(System.Double,System.Double,System.Boolean)">
+ <summary>
+ Returns a value with a percentage of it added or removed.
+ </summary>
+ <param name="amnt"></param>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.CommonMethods.GetPercentagePart(System.Decimal,System.Decimal,System.Boolean)">
+ <summary>
+ Returns a values removed or added percentage. Add bool does nothing right now.
+ </summary>
+ <param name="amnt"></param>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.CommonMethods.GetPercentByChange(System.Decimal,System.Decimal)">
+ <summary>
+ Returns the percentage of removal or addition to a value.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.Language.Currencize(System.Double,System.Boolean,System.Int32)">
+ <summary>
+ Suffixes a currency based on currency from dictionary.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.Language.Currencize(System.Decimal,System.Boolean,System.Int32)">
+ <summary>
+ Suffixes a currency based on currency from dictionary.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.Language.Currencize(System.String,System.Boolean,System.Int32)">
+ <summary>
+ Suffixes a currency based on currency from dictionary.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.Language.Currencize(System.Int32,System.Boolean,System.Int32)">
+ <summary>
+ Suffixes a currency based on currency from dictionary.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.Language.Currencize(System.Windows.Forms.DataGridViewColumn)">
+ <summary>
+ Suffixes a currency based on currency from dictionary. Currencizes all rows in the dgv column.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.Language.DECurrencize(System.String)">
+ <summary>
+ Removes currency and lettering from a string number. 1,9 defines a range of characters
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.HardwareInfo.GetDiskVolumeSerialNumber">
+ <summary>
+ Get disk volume serial number
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.HardwareInfo.GetProcessorId">
+ <summary>
+ Get processor id
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.HardwareInfo.GenerateUID(System.String)">
+ <summary>
+ Create a UID specific to the PC encoded. This is used to create a uid that can be used to create a license key.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.Licenses.GenerateUID(System.String)">
+ <summary>
+ Generate a UID that can be used to create a license.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.Licenses.DecryptUID(System.String)">
+ <summary>
+ Return the full joined decrypted UID.
+ </summary>
+ <param name="uid"></param>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.Licenses.DecryptUIDList(System.String)">
+ <summary>
+ Return the list of string parts in a UID decoded.
+ </summary>
+ <param name="uid"></param>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.Licenses.VerifyUIDFormat(System.String,System.String)">
+ <summary>
+ Checks if the UID retrieved is a correct format. Takes encrypted uid.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.Licenses.VerifyLicense(System.String,System.String)">
+ <summary>
+ Checks if the license retrieved is a correct license. Takes encrypted license and checks the decrypted version.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LicenseSoftware.EndUser.Licenses.Licenses">
+ <summary>
+ Returns from a list of possible licenses to use.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.Notifications.Notification.CreateNotification(VeterinaryClinic.Notifications.NotificationData)">
+ <summary>
+ إظهار الاشعار على مكان محدد
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.UserGrants.RefreshGrants(System.String)">
+ <summary>
+ Check access possiblity on buttons in head based on the saved access string and update accessbility immediately.
+ </summary>
+ <param name="uname"></param>
+</member>
+<member name="M:VeterinaryClinic.UserGrants.UpdateGrants(System.Collections.Generic.List{System.String},System.String,System.Boolean)">
+ <summary>
+ Called to update the grants column with the new set of strings.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.UserGrants.GrantColorUpdate(System.Collections.Generic.List{System.Windows.Forms.PictureBox},System.String)">
+ <summary>
+ Called from the admin f to change picure boxes color according to accessbility of button to user.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.SQLAccess.DefineNewFilePath(System.String)">
+ <summary>
+ Used to save the connectionstring into a text file.
+ </summary>
+ <param name="newConnection"></param>
+</member>
+<member name="M:VeterinaryClinic.SQLAccess.ApplicationHasAServerPath">
+ <summary>
+ Checks if the txt for server has text in it.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.SQLAccess.DefineExistingFilePath">
+ <summary>
+ Check if there is a connection in the txt and then map it.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.SQLAccess.ApplicationFilePathConnectable">
+ <summary>
+ Check if the data base is connectable.
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:VeterinaryClinic.SQLChatter">
+ <summary>
+ Toolbox for all methods and functions needed to run a simple chatting app in SQL.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.SQLChatter.Message.SendMessage">
+ <summary>
+ Sends message by adding the data of the message into the SQL table using sender, recipient, message and date.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.SQLChatter.RefreshFlowPanel(System.Windows.Forms.FlowLayoutPanel,VeterinaryClinic.SQLChatter.RefreshData,System.String,System.Collections.Generic.List{VeterinaryClinic.SQLChatter.OnScreenMessage}@)">
+ <summary>
+ Called to refresh the panel with current messaging data from SQL. Only gets messages in last 7 days.
+ </summary>
+ <param name="flowPanel"></param>
+</member>
+<member name="M:VeterinaryClinic.SQLChatter.ShouldRefresh">
+ <summary>
+ Used to refresh a the flowlayout panel.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.SQLChatter.ShouldPing">
+ <summary>
+ Used to ping the user using the system.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.SQLChatter.NewData(VeterinaryClinic.SQLChatter.RefreshData,System.Collections.Generic.List{VeterinaryClinic.SQLChatter.OnScreenMessage})">
+ <summary>
+ If false, don't refresh, if true, refresh.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.LabInvOprationF.GenerateQrCode">
+ <summary>
+ This function converts the text within the parameter into a qr code and then byte array.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.InviocCall.GenerateQrCode">
+ <summary>
+ This function converts the text within the parameter into a qr code and then byte array.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.ItsmDefinition.CompleteSearchItem(System.Object,System.EventArgs)">
+ <summary>
+ تعبأة الحقول الناقصة من البحث.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.ItsmDefinition.CompleteSearchServ(System.Object,System.EventArgs)">
+ <summary>
+ تعبأة الحقول الناقصة من البحث.
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.ReqMedicalExam.GenerateQrCode(System.Windows.Forms.TextBox,System.Windows.Forms.TextBox)">
+ <summary>
+ This function converts the text within the parameter into a qr code and then byte array.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.SellingInvoiceF.InvoicCuntIn">
+ <summary>
+ صب خاص لتعداد نوافذ الفواتير المفتوحة
+ </summary>
+</member>
+<member name="M:VeterinaryClinic.SellingInvoiceF.GenerateQrCode">
+ <summary>
+ This function converts the text within the parameter into a qr code and then byte array.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:VeterinaryClinic.SellsOneF.GenerateQrCode">
+ <summary>
+ This function converts the text within the parameter into a qr code and then byte array.
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>
